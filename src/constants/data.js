@@ -32,27 +32,27 @@ const cocktails = [
   {
     title: 'Onion Pakoda',
     price: '₹20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    tags: 'Full plate | Half plate',
   },
   {
     title: "Veg Cutlet",
     price: '₹16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    tags: 'Full plate | Half plate',
   },
   {
     title: 'Aloo Tikki',
     price: '₹10',
-    tags: 'Rum | Citrus juice | Sugar',
+    tags: 'Full plate | Half plate',
   },
   {
     title: 'French Fries',
     price: '₹31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    tags: 'Full plate | Half plate',
   },
   {
     title: 'Pav Bhaji',
     price: '₹26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    tags: 'Full plate | Half plate',
   },
 ];
 
